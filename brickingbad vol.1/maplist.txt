@@ -1,0 +1,42 @@
+Map			Date		Gamemodes
+----			----		----
+Siberia_stairfix	12/27/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+bVr_virtua		12/27/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+Siberia			12/26/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+mag-4+mid		12/25/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad7.1		12/09/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad8_zones	12/09/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad8_bags	12/09/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+brickingbad8		12/09/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+brickingbad7		12/06/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad6		12/03/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+3xCity			12/03/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad5.1		12/01/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad5		12/01/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+watchtower		11/08/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant	
+battle.royale2		11/06/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+ASLT_rooms1		11/05/18	Assault
+Telekill.small_nokill	11/05/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+Telekill.small		11/05/18	DM, TDM, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+coop_cats2		11/05/18	Assault
+brickingbad3		11/05/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+battle.royale		11/04/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+Telekill_nokill		11/04/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+Telekill		11/04/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad2.2		11/03/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+brickingbad1.2		11/03/18	DM, TDM, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+2Towers			10/31/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+aircraft		08/29/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad2.1		08/28/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad2		08/28/18	DM, TDM, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad		08/28/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+brickingbad4		08/29/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+racetrack		08/26/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+coop_1			08/26/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+ob_coop			11/05/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Assault, Gladiator, Monkey Assistant
+lobby303		07/23/18	DM, TDM, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Assault, Gladiator, Monkey Assistant
+egypt			07/22/18	DM, TDM, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+brickIT			07/22/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+nadeglass1		07/22/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+2fort			07/20/18	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+ob_303			07/22/18	DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Assault, Gladiator, Monkey Assistant
