@@ -1,0 +1,11 @@
+Map			Author		Gamemodes
+----			----		----
+The Corridors of Power	order66.exe	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+Verrückt		Redacted	DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+Gotta Go fast		Fauch		DM, TDM, CTB, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+Ascension Tower		Revenge		DM, TDM, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+LIBRARY			Bobandy		DM, TDM, CTB, BagTag, Elimination, Shrink, Vampire, Thief, Gladiator
+Tip Tip BnB		Sp00n52		DM, TDM, CTB, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+Yard (TS2 Compound)	Bstar		DM, TDM, BagTag, Elimination, Shrink, Vampire, Thief, Virus, Gladiator, Monkey Assistant
+Nephthy's Tomb		Splitter	DM, TDM, CTB, Elimination, Shrink, Vampire, Thief, Virus, Zones, Gladiator, Monkey Assistant
+nadeglass2		TB303		DM, TDM, Elimination, Shrink, Vampire, Thief, Virus, Assault, Gladiator, Monkey Assistant
